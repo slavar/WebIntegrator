@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/webintergrator/!svn/ver/10/WebIntegrator/src/java/com/webintegrator/logging
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/webintergrator/!svn/ver/10/WebIntegrator/src/java/com/webintegrator/logging/Event.java
+END
+Priority.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/webintergrator/!svn/ver/10/WebIntegrator/src/java/com/webintegrator/logging/Priority.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/webintergrator/!svn/ver/10/WebIntegrator/src/java/com/webintegrator/logging/LogFactory.java
+END

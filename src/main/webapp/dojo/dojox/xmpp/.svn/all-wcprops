@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp
+END
+PresenceService.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/PresenceService.js
+END
+xmppSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/xmppSession.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/util.js
+END
+RosterService.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/RosterService.js
+END
+UserService.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/UserService.js
+END
+ChatService.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/ChatService.js
+END
+TransportSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/TransportSession.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/README
+END
+sasl.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/xmpp/sasl.js
+END

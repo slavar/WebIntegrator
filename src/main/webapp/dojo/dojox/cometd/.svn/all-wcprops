@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd
+END
+RestChannels.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/RestChannels.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/_base.js
+END
+longPollTransportFormEncoded.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/longPollTransportFormEncoded.js
+END
+HttpChannels.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/HttpChannels.js
+END
+timesync.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/timesync.js
+END
+longPollTransportJsonEncoded.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/longPollTransportJsonEncoded.js
+END
+callbackPollTransport.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/callbackPollTransport.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/README
+END
+longPollTransport.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/longPollTransport.js
+END
+timestamp.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/cometd/timestamp.js
+END

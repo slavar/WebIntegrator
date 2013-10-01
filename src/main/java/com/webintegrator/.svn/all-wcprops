@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/webintergrator/!svn/ver/24/WebIntegrator/src/java/com/webintegrator
+END
+CustomFileListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/webintergrator/!svn/ver/11/WebIntegrator/src/java/com/webintegrator/CustomFileListener.java
+END
+ReplicatorClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/webintergrator/!svn/ver/11/WebIntegrator/src/java/com/webintegrator/ReplicatorClient.java
+END
+FullSyncReplicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/webintergrator/!svn/ver/24/WebIntegrator/src/java/com/webintegrator/FullSyncReplicator.java
+END
+CustomContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/webintergrator/!svn/ver/11/WebIntegrator/src/java/com/webintegrator/CustomContextListener.java
+END
+CustomWebdavServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/webintergrator/!svn/ver/11/WebIntegrator/src/java/com/webintegrator/CustomWebdavServlet.java
+END

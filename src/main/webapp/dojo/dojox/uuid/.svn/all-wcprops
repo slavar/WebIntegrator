@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/uuid
+END
+Uuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/uuid/Uuid.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/uuid/_base.js
+END
+generateTimeBasedUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/uuid/generateTimeBasedUuid.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/uuid/README
+END
+generateRandomUuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/webintergrator/!svn/ver/2/WebIntegrator/web/dojo/dojox/uuid/generateRandomUuid.js
+END
